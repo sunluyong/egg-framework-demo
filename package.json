@@ -1,6 +1,6 @@
 {
-  "name": "framework-demo",
-  "version": "1.0.1",
+  "name": "egg-framework-demo",
+  "version": "1.0.0",
   "description": "egg.js framework demo",
   "dependencies": {
     "egg": "^2.15.1",
