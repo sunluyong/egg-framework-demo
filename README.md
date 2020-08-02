@@ -14,9 +14,12 @@ publish your framework to npm, then change app's framework config:
 ```js
 // {app_root}/index.js
 {
-  "name": "egg-showcase",
+  "name": "egg-demo",
   "egg": {
-    "framework": "yadan"
+    "framework": "egg-framework-demo"
+  },
+  "dependencies": {
+    "egg-framework-demo": "^1"
   }
 }
 ```
